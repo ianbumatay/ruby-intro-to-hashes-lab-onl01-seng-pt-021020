@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-	the_rock = {:name => "Dwane Johnson", age: => "42"}
+	actor = {:name => "Dwane Johnson"}
 
 end
 
